@@ -1,0 +1,6 @@
+{
+  "name": "Hexnode IDP - Bulk Operations Tracking",
+  "description": "Enterprise Identity Provider with Real-Time Bulk Operations Tracking, Diagnostic Stepper, and Action Audit Logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
